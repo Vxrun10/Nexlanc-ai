@@ -59,7 +59,6 @@ pyarrow==21.0.0
 PyAutoGUI==0.9.54
 pycparser==2.23
 pydantic==1.10.13
-pydantic_core==2.33.2
 pydeck==0.9.1
 pygame==2.6.1
 PyGetWindow==0.0.9
