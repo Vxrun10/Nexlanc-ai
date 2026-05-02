@@ -114,7 +114,7 @@ def dashboard():
 
     #  THIS handles GET requests (and fallback)
     return render_template(
-        "Dashboard.html",
+        "dashboard.html",
         user=session["user"],
         result=result
     )
